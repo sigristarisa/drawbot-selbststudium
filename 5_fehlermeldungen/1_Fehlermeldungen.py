@@ -1,6 +1,6 @@
 """
 Fehlermeldungen
-Drawbot sagt Bescheid, wenn etwas nicht stimmt im Script.
+Drawbot gibt Bescheid, wenn etwas nicht stimmt im Script.
 """
 
 print(s)
@@ -11,10 +11,11 @@ print("Hoi)
 
 print(randint(2, 5.5))
 
-size(200, 200)
-oval(0, 0, size, size) # Tipp: schreibe help(size) in die Konsole
-
-
 """
-Versuche zu verstehen, was jeweils einen Fehler verursacht und diesen zu lösen.
+Fehlermeldungen geben zwei wichtige Hinweise:
+- die Art des Fehlers
+- Die Zeile, in welcher der Fehler auftritt
+
+Aufgabe:
+Das Script enthält mehrere Fehler. Finde und korrigiere sie.
 """
