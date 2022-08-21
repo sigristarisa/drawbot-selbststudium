@@ -12,7 +12,6 @@ for film in lieblingsfilme:
     
 
 """
-    
 Aufgabe: 
     - Ergänze die Liste Lieblingsfilme mit Filmen, die du gerne magst. 
     
