@@ -15,6 +15,6 @@ for film in lieblingsfilme:
 Aufgabe: 
     - Ergänze die Liste Lieblingsfilme mit Filmen, die du gerne magst. 
     
-Warum werden mit oben stehendem Programm alle Titel übereinander platziert? 
-Kannst du die Filmnamen zufällig auf der Fläche verteilen? 
+Warum werden alle Titel übereinander platziert? 
+Kannst du sie zufällig auf der Fläche verteilen? 
 """
