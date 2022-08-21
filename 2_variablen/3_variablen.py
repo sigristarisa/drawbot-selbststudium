@@ -49,6 +49,6 @@ dass du ihren Zweck daran ablesen kannst.
 
 Wenn dir gerade nichts einfällt, sind Nonsens-Namen wie
 "foo" und "bar" zuverlässige Helfer. Aber vergiss nicht,
-sie später mit Suchen/Ersetzen mit etwas sinvollerem zu
+sie später mit Suchen/Ersetzen durch etwas Sinnvolleres zu
 ersetzen.
 """
