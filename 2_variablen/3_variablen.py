@@ -34,8 +34,8 @@ Namen von Variablen:
     - beginnen mit kleinbuchstaben
     - keine Zahl als erstes Zeichen
     - erlaubt: a-z, A-Z, 0-9, _ 
-    - Camel case: fooBarBaz 🐫
-    - Snake case: foo_bar_baz 🐍
+    - Camel case: myOwnVariable 🐫
+    - Snake case: any_random_number 🐍
 
 Abgesehen davon, dass keine Sonderzeichen erlaubt sind und
 dass sie nicht mit einer Ziffer beginnen dürfen, kannst du
@@ -47,8 +47,4 @@ verwendest (siehe Cheatsheet).
 Meist ist es gut, den Namen einer Variablen so zu wählen,
 dass du ihren Zweck daran ablesen kannst.
 
-Wenn dir gerade nichts einfällt, sind Nonsens-Namen wie
-"foo" und "bar" zuverlässige Helfer. Aber vergiss nicht,
-sie später mit Suchen/Ersetzen durch etwas Sinnvolleres zu
-ersetzen.
 """
