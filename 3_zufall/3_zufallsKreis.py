@@ -6,11 +6,13 @@ newPage("A4")
 
 pageWidth = width()
 pageHeight = height()
+print("pageWidth:", pageWidth, "pageHeight:", pageHeight)
 
 randomDiameter = random() * pageWidth
-
-randomX = random() * pageWidth
-randomY = random() * pageHeight
+print("randomDiameter", randomDiameter)
+randomX = (pageWidth - randomDiameter) * random()
+randomY = (pageHeight - randomDiameter) * random()
+print("randomX:", randomX, "randomY", randomY)
 
 oval(randomX, randomY, randomDiameter, randomDiameter)
 

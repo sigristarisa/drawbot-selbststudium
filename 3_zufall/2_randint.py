@@ -3,8 +3,9 @@ Zufallsspektrum
 """
 
 myRandomRange = randint(100, 200)
-print(myRandomRange)
-
+newPage(myRandomRange, myRandomRange)
+diameter = myRandomRange/2
+oval(width()-diameter, height()/4, diameter, diameter )
 
 """
 Die Funktion randint() liefert eine zufällige Ganzzahl (ohne Kommastelle) zwischen Wert 1 und Wert 2.
