@@ -1,10 +1,12 @@
 """
 Zufallspfad
 """
-
-randomPoints = [(630, 729),
-(106, 874),
-(660, 467),
+width = width()
+height = height()
+print("randomWidth", width*random())
+randomPoints = [(width*random(), height*random()),
+(width*random(), height*random()),
+(width*random(), height*random()),
 ]
 
 stroke(0)

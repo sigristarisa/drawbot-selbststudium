@@ -3,13 +3,13 @@ Fehlermeldungen
 Drawbot gibt Bescheid, wenn etwas nicht stimmt im Script.
 """
 
-print(s)
+print("s")
 
-print(width()
+print(width())
 
-print("Hoi)
+print("Hoi")
 
-print(randint(2, 5.5))
+print(randint(2, 5))
 
 """
 Fehlermeldungen geben zwei wichtige Hinweise:

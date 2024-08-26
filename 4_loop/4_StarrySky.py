@@ -8,8 +8,9 @@ fill(0)
 rect(0, 0, 300, 300)
 
 for i in range (200):
+    r,g,b = random(), random(), random()
     dia = random() * 3
-    fill(random())
+    fill(r,g,b)
     oval(random()*300, random()*300, dia, dia)
     
     

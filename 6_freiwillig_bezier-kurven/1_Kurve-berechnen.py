@@ -7,7 +7,7 @@ fill(None)
 
 newPath()
 moveTo((100, 100))
-curveTo((300, 300),(700, 300), (900, 100))
+curveTo((300, 300),(500, 700), (900, 100))
 drawPath()
 
 
