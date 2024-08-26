@@ -7,6 +7,7 @@ Mit print() kannst du Werte abfragen, die in die Konsole geschrieben werden soll
 newPage(1000, 600)
 
 print(width())
+print(width()/2)
 
 """
 - Mit print(width()) kannst du die Breite der Seite abfragen.

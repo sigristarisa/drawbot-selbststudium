@@ -2,17 +2,17 @@
 Variablen schreiben
 """
 
-newPage(1000, 1000)
+newPage("A4")
 
-rect1x = 200 + 200
-rect1y = 5 * 100
 rect1width = 1000 - 500
 rect1height = 1000 - 600
+rect1x = width()/2
+rect1y = height()- rect1height
 
-rect2x = 900 / 30
-rect2y = 5 * 24
 rect2width = width() // 2
 rect2height = height() / 3
+rect2x = 0
+rect2y = 0
 
 rect(rect1x, rect1y, rect1width, rect1height)
 rect(rect2x, rect2y, rect2width, rect2height)

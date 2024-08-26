@@ -8,8 +8,9 @@ print("Breite:", width())
 print("Höhe:", height())
 
 side = 300
-posX = 0
-posY = 0
+posX = width()/2 - side/2
+posY = height()/2 - side/2
+
 
 fill(1, 0, 0)
 rect(posX, posY, side, side)

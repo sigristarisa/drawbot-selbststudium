@@ -6,13 +6,13 @@ Eine Variable zum Wiederverwenden eines Wertes.
 
 newPage(1000, 1000)
 
-posY = 0
+posY = 400
 
 rect(100, posY, 150, 150)
 
 oval(400, posY, 150, 150)
 
-polygon((700, posY), (880, posY), (790, 150), close=True)
+polygon((700, posY), (880, posY), (790, posY+150), close=True)
 
 """
 «posY» ist eine Variable.
