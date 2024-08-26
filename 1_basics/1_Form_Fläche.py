@@ -4,7 +4,7 @@ Form und Fläche
 
 newPage(1000, 1000)
 
-rect(200, 200, 600, 600)
+rect(0, 0, 600, 300)
 
 """
 - Klicke auf «run» (cmd r)

@@ -3,10 +3,8 @@ Heissluftballon
 """
 
 newPage(1000, 1000)
-
 oval(300, 400, 500, 500)
-
-rect(97, 144, 200, 200)
+rect(447, 204, 200, 200)
 
 
 """
@@ -16,5 +14,4 @@ rect(97, 144, 200, 200)
 - Bewege den Korb unter den Ballon.
 – Anstatt mit der Maus resp. dem Trackpad zu ziehen, kannst du auch die Pfeiltasten nutzen: Wert auswählen, cmd drücken + Pfeiltaste. + shift führt zu Veränderung in 10er Schritten 
 """
-
 

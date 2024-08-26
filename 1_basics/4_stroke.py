@@ -10,6 +10,7 @@ stroke(0, 0, 1)
 strokeWidth(2)
 
 line((0, 0), (1000, 1000))
+line((0, height()), (width(), 0))
 oval(100, 100, 800, 800)
 
 """

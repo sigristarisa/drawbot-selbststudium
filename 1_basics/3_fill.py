@@ -7,6 +7,7 @@ Beim Ausführen des Programms werden sie mit diesen Werten ersetzt.
 
 newPage("A4Landscape")
 
+fill(0,0,1)
 rect(0, 0, width(), height())
 
 fill(1, 0, 0)
@@ -27,3 +28,5 @@ fill(1, 0, 1) rot/blau gemischt
 
 - Kannst du Blau statt Schwarz als Hintergrundfarbe einstellen?
 """
+
+
